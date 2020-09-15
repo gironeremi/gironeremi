@@ -1,5 +1,8 @@
-Hey folks, I'm GIRONE Remi from Nice, France.
-=============================================
+Hey folks, I'm GIRONE Remi
+==========================
+
+born in Antibes, the French Riviera
+------------------------------------
 
 
 ### Hi there 👋
