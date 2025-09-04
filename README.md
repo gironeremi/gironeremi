@@ -1,21 +1,29 @@
-Hey folks, I'm GIRONE Remi
-==========================
+# Hey 👋, je suis GIRONE Rémi
+## Développeur Fullstack PHP / React – spécialisé WordPress & DevOps débutant
 
-Un peu de mon histoire:
------------------------
+### 💡 Mon parcours en bref
 
-Je me présente: GIRONE Rémi, 36 ans, ancien artisan ferronnier dans la ville d'Antibes et actuel Développeur Web.
+Ancien artisan ferronnier, passionné de Linux et du web depuis plus de 20 ans.
 
-J'ai toujours tâté du code HTML, je suis tombé dedans en 1998 environ. Je faisais des petits webzines avec un camarade de classe.
-Puis j'ai passé 15 années dans le bâtiment.
+***Problem solver, orienté solutions claires et efficaces.***
 
-***Décembre 2018:*** je découvre OpenClassrooms avec le cours de Guillaume PARROU: Apprenez à apprendre. Sonne en moi un retour aux sources et une envie de #reconversionprofessionnelle.
+Reconversion professionnelle amorcée en 2018 → diplômé OpenClassrooms en 2020.
 
-***Décembre 2020:*** mon parcours Développeur Web se termine, marché du travail, me voilà! Je suis désormais Développeur Web (junior) !
+Expériences en startup et en freelance, sur des projets variés : WordPress, backend PHP, intégration front, support technique, DevOps (Docker, Kubernetes).
 
-***Juin 2021:*** Après une expérience professionnelle dans une startup de Sophia Antipolis, je vous propose, chères entreprises de Nice, Carros ou Sophia Antipolis, mes services en tant que Développeur! Je me suis spécialisé dans le backend avec PHP et MySQL.
+Aujourd’hui : orienté Fullstack PHP / React, avec une culture DevOps en construction, à la recherche d’un poste où qualité, partage et apprentissage sont au cœur du projet.
 
-J'apprécie tout particulièrement monter une base de données et élaborer les requêtes SQL.
+### 🛠️ Compétences clés
 
-Je suis également ouvert aux technologies Frontend. J'ai d'ailleurs commencé Angular.
-On me dit Créatif et j'espère prospérer au sein d'une équipe qui saura apprécier mon travail soigné.
+**Backend :** PHP (MVC, API REST, MySQL), Slim / Symfony (bases)
+
+**Frontend :** JavaScript (ES6), React (en cours), CSS responsive
+
+**WordPress :** thèmes FSE, Elementor, maintenance, migrations
+
+**DevOps débutant :** Docker, YAML, monitoring, culture CI/CD
+
+**Outils :** Git, VSCode, PHPStorm, Jira, Confluence, n8n
+
+### 🚀 Ce que je recherche
+Un environnement technique stimulant (PHP/React), une équipe où l’on apprend les uns des autres, et des projets qui ont un vrai impact sur leurs utilisateurs.
